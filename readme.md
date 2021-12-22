@@ -14,7 +14,8 @@
 
 # Eseguire il bot
 "Only long polling is supported" 
-#comando per eseguire "python esempio.txt"
+comando per eseguire "python esempio.txt"
+
 ATTENZIONE, python3-debugger non è stato ancora provato e ottimizzato per questa versione.. eseguire il bot in debug mode potrebbe essere instabile.
 
 
