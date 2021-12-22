@@ -1,6 +1,6 @@
-#Copyright (C) 2021 AleCri07 
-#PROGRAM COME WITH ABSOLUTELY NO WARRANTY! See GNU Lesser General Public License for more details.
-#Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
+# Copyright (C) 2021 AleCri07 
+PROGRAM COME WITH ABSOLUTELY NO WARRANTY! See GNU Lesser General Public License for more details.
+Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
 
 # INFORMAZIONI  
 
