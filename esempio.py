@@ -1,10 +1,12 @@
+#Copyright (C) 2021 GNU Lesser General Public License AleCri07
+
 import EzTG
 
 
 def callback(bot, update):
     # Questo è il bot
     if 'message' in update:
-        # messages "handler"
+        # Gestore dei messaggi 
         message_id = update['message']['message_id']  # https://core.telegram.org/bots/api#message
         user_id = update['message']['from']['id']
         chat_id = update['message']['chat']['id']
