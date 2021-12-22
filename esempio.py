@@ -1,4 +1,7 @@
 #Copyright (C) 2021 GNU Lesser General Public License AleCri07
+#Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
+#!/usr/bin/python3
+
 
 import EzTG
 
