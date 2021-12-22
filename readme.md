@@ -2,6 +2,7 @@
 #PROGRAM COME WITH ABSOLUTELY NO WARRANTY! See GNU Lesser General Public License for more details.
 #Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
 
+# INFORMAZIONI  
 
 #EzG Python non-async
 
